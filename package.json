@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "lib/cli.js",
+  "repository": "git@github.com:gbalbuena/xmltojson-cli.git",
   "bin": {
     "@gbalbuena/xmltojson": "bin/xmltojson",
     "xmltojson": "bin/xmltojson"
